@@ -1,0 +1,11 @@
+Instance Id	Type	Image	KeyName	Private IP	Public IP	Subnet Id	Name	CostCenter	App	Contact Name	Contact Email	Contact Phone
+i-0aa2037c732c21f66	t2.micro	ami-0ecc74eca1d66d8a6	Operations	172.31.26.71	52.37.174.1	subnet-6cf64114	BackendA	A1000	Website	Julia Roberts	julia.roberts@company.com	331234578
+i-07ed5d8d97b038ad9	t2.micro	ami-0ecc74eca1d66d8a6	Operations	172.31.28.144	54.187.123.211	subnet-6cf64114	BackendB	A1000	Website	Julia Roberts	julia.roberts@company.com	331234578
+i-0fa99f1e4b7ca7bf7	t2.micro	ami-0ecc74eca1d66d8a6	Operations	172.31.21.10	N/A	subnet-6cf64114	BackendC	A1000	Website	Julia Roberts	julia.roberts@company.com	331234578
+i-094bc54116f8382d2	t2.micro	ami-0ecc74eca1d66d8a6	Operations	172.31.30.24	N/A	subnet-6cf64114	BackendD	A1000	Website	Julia Roberts	julia.roberts@company.com	331234578
+i-0460b792d7a9ac7fa	t3.medium	ami-0e4841c3bb7d47d69	Secure	172.31.57.153	35.84.37.182	subnet-82ffc1a9	SecureA	A2000	Audit	Brad Pitt	brad.pitt@company.com	5512345678
+i-02d569bf8521af7e2	t3.medium	ami-0e4841c3bb7d47d69	Secure	172.31.56.114	18.246.9.214	subnet-82ffc1a9	SecureB	A2000	Audit	Brad Pitt	brad.pitt@company.com	5512345678
+i-0eb0eeca1c3c41b16	t2.micro	ami-0e863061578d3e9fb	SolOrtega21Bastion	172.31.5.161	35.88.132.123	subnet-c9b53394	Bastion	A2000	Shared	Brad Pitt	brad.pitt@company.com	5512345678
+i-04039bcaee69da089	t2.micro	ami-0ceecbb0f30a902a6	Operations	172.31.42.186	34.220.246.52	subnet-3d1dcc77	FrontendA	A1000	Website	Edward Norton	ed.norton@company.com	2221234567
+i-0795e23886ce21479	t2.micro	ami-0ceecbb0f30a902a6	Operations	172.31.46.249	35.91.162.13	subnet-3d1dcc77	FrontendB	A1000	Website	Edward Norton	ed.norton@company.com	2221234567
+i-03608993cfcb866d9	t2.micro	ami-0ceecbb0f30a902a6	Operations	172.31.41.229	54.190.180.205	subnet-3d1dcc77	FrontendC	A1000	Website	Edward Norton	ed.norton@company.com	2221234567
